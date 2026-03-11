@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/logo-grafia-github.png" alt="Grafia Logo" width="300" />
+  <img src="./images/logo-grafia-github.png" alt="Grafia Logo" width="600" />
 
   <p>
     A creative idea capture app, fast and local-first. Designed to manage a multipotential mind and help your creative process.
