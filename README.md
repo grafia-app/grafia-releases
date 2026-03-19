@@ -6,34 +6,17 @@
   </p>
 
 <a href="https://grafia.garden"><img src="https://img.shields.io/badge/Web-grafia.garden-10b981?style=flat-square" alt="Web"></a>
-<a href="https://github.com/grafia-app/grafia-releases/releases/latest"><img src="https://img.shields.io/github/v/release/grafia-app/grafia-releases?style=flat-square&color=blue" alt="Version"></a>
 <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20Linux%20%7C%20Web%20%7C%20Android-lightgrey?style=flat-square" alt="Platforms">
 
 </div>
 
 <br />
 
-## Downloads (Desktop)
+## Downloads
 
-Download the latest version of Grafia for your desktop operating system. Enjoy a native, fast experience with offline support.
-
-### Windows
-
-- [**Download Grafia for Windows (.msi installer)**](https://github.com/grafia-app/grafia-releases/releases/latest/download/Grafia_x64_en-US.msi)
-- [**Download Grafia for Windows (.exe installer)**](https://github.com/grafia-app/grafia-releases/releases/latest/download/Grafia_x64-setup.exe)
-
-### Linux
-
-- [**Download Grafia for Linux (.deb)**](https://github.com/grafia-app/grafia-releases/releases/latest/download/grafia_amd64.deb) — Debian, Ubuntu, Mint
-- [**Download Grafia for Linux (.rpm)**](https://github.com/grafia-app/grafia-releases/releases/latest/download/grafia.x86_64.rpm) — Fedora, openSUSE, RHEL
-
-[View all versions and release notes](https://github.com/grafia-app/grafia-releases/releases)
-
----
-
-## Other Platforms
-
+- **Web:** [grafia.garden](https://grafia.garden)
 - **Android:** Available on **Google Play** _(Coming Soon)_
+- **Windows / Linux:** Coming Soon
 - **macOS / iOS:** Coming Soon
 
 ---
