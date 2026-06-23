@@ -16,7 +16,7 @@
 ## Downloads
 
 - **Web:** [grafia.garden](https://grafia.garden)
-- **Android:** Available on **Google Play** _(Coming Soon)_
+- **Android:** [**Download on Google Play**](https://play.google.com/store/apps/details?id=garden.grafia.app)
 - **Windows / Linux:** Coming Soon
 - **macOS / iOS:** Coming Soon
 
