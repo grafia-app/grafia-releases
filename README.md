@@ -62,7 +62,7 @@
 <br />
 
 - **AI Image Generation** — 10+ models. Create, reference, and edit from your notes.
-- **AI Music** — Generate tracks and separate stems (vocals, drums, bass).
+- **AI Music** — Generate original tracks from a text prompt.
 - **AI Video** — Text-to-video, image-to-video, reference, extend. 30+ models.
 - **Creative Assistant** — AI chat with context from multiple notes on your board.
 - **Bring Your Own Key** — Use Gemini, OpenAI, Grok, MiniMax, DashScope, or any OpenAI-compatible API.
