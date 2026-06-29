@@ -22,6 +22,8 @@
 
 > **Grafia Local** — optional offline AI engine (run models on your own machine): [**Download 1.0.0 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.0/Grafia.Local_1.0.0_x64-setup.exe) · [guide](https://grafia.garden/local).
 
+> **Grafia Piano** — desktop piano studio: [**Download 1.0.0 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.0.0/Grafia_Piano_1.0.0_x64-setup.exe).
+
 ---
 
 ## Capture
