@@ -17,7 +17,7 @@
 
 - **Web:** [grafia.garden](https://grafia.garden)
 - **Android:** [**Download on Google Play**](https://play.google.com/store/apps/details?id=garden.grafia.app)
-- **Windows:** [**Download Grafia 1.1.3 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.1.3/Grafia_1.1.3_x64-setup.exe)
+- **Windows:** [**Download Grafia 1.1.5 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.1.5/Grafia_1.1.5_x64-setup.exe)
 - **Linux / macOS / iOS:** Coming Soon
 
 > **Grafia Local** — optional offline AI engine (run models on your own machine): [**Download 1.0.0 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.0/Grafia.Local_1.0.0_x64-setup.exe) · [guide](https://grafia.garden/local).
