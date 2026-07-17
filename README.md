@@ -16,8 +16,8 @@
 ## Downloads
 
 - **Web:** [grafia.garden](https://grafia.garden)
-- **Android:** [**Download on Google Play**](https://play.google.com/store/apps/details?id=garden.grafia.app)
-- **Windows:** [**Download Grafia 1.1.11 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.1.11/Grafia_1.1.11_x64-setup.exe)
+- **Android:** [**Download Grafia Notes on Google Play**](https://play.google.com/store/apps/details?id=garden.grafia.app)
+- **Windows:** [**Download Grafia Notes 1.1.11 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.1.11/Grafia_1.1.11_x64-setup.exe)
 - **Linux / macOS / iOS:** Coming Soon
 
 > ⚙️ **Grafia&nbsp;Local** _(separate app — offline AI engine, not the notes app)_ — run models on your own machine: [**Download 1.0.4 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.4/Grafia.Local_1.0.4_x64-setup.exe) · [guide](https://grafia.garden/local).
