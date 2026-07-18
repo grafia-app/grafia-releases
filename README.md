@@ -24,6 +24,8 @@
 
 > 🎹 **Grafia&nbsp;Piano** _(separate app — piano studio, not the notes app)_: [**Download 1.0.5 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.0.5/Grafia_Piano_1.0.5_x64-setup.exe) · [**Classic pieces (MusicXML)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-content-v1/grafia-piano-clasicos-v1.zip).
 
+> 🗣️ **Grafia&nbsp;Lingua** _(separate app — local language tutor, not the notes app)_: [**Download 1.0.0 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/lingua-v1.0.0/Grafia.Lingua_1.0.0_x64-setup.exe).
+
 ---
 
 ## Capture
