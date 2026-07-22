@@ -20,7 +20,7 @@
 - **Windows:** [**Download Grafia Notes 1.1.11 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.1.11/Grafia_1.1.11_x64-setup.exe)
 - **Linux / macOS / iOS:** Coming Soon
 
-> ⚙️ **Grafia&nbsp;Local** _(separate app — offline AI engine, not the notes app)_ — run models on your own machine: [**Download 1.0.5 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.5/Grafia.Local_1.0.5_x64-setup.exe) · [guide](https://grafia.garden/local).
+> ⚙️ **Grafia&nbsp;Local** _(separate app — offline AI engine, not the notes app)_ — run models on your own machine: [**Download 1.0.6 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.6/Grafia.Local_1.0.6_x64-setup.exe) · [guide](https://grafia.garden/local).
 
 > 🎹 **Grafia&nbsp;Piano** _(separate app — piano studio, not the notes app)_: [**Download 1.0.6 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.0.6/Grafia_Piano_1.0.6_x64-setup.exe) · [**Classic pieces (MusicXML)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-content-v1/grafia-piano-clasicos-v1.zip).
 
