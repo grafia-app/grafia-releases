@@ -22,7 +22,7 @@
 
 > ⚙️ **Grafia&nbsp;Local** _(separate app — offline AI engine, not the notes app)_ — run models on your own machine: [**Download 1.0.6 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.6/Grafia.Local_1.0.6_x64-setup.exe) · [guide](https://grafia.garden/local).
 
-> 🎹 **Grafia&nbsp;Piano** _(separate app — piano studio, not the notes app)_: [**Download 1.0.6 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.0.6/Grafia_Piano_1.0.6_x64-setup.exe) · [**Classic pieces (MusicXML)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-content-v1/grafia-piano-clasicos-v1.zip).
+> 🎹 **Grafia&nbsp;Piano** _(separate app — piano studio, not the notes app)_: [**Download 1.0.7 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.0.7/Grafia_Piano_1.0.7_x64-setup.exe) · [**Classic pieces (MusicXML)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-content-v1/grafia-piano-clasicos-v1.zip).
 
 > 🗣️ **Grafia&nbsp;Lingua** _(separate app — local language tutor, not the notes app)_: [**Download 1.0.1 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/lingua-v1.0.1/Grafia.Lingua_1.0.1_x64-setup.exe).
 
