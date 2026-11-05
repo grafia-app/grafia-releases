@@ -17,10 +17,10 @@
 
 - **Web:** [grafia.garden](https://grafia.garden)
 - **Android:** [**Download Grafia Notes on Google Play**](https://play.google.com/store/apps/details?id=garden.grafia.app)
-- **Windows:** [**Download Grafia Notes 1.2.0 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.2.0/Grafia_1.2.0_x64-setup.exe)
+- **Windows:** [**Download Grafia Notes 1.2.1 (x64)**](https://github.com/grafia-app/grafia-releases/releases/download/v1.2.1/Grafia_1.2.1_x64-setup.exe)
 - **Linux / macOS / iOS:** Coming Soon
 
-> ⚙️ **Grafia&nbsp;Local** _(separate app — offline AI engine, not the notes app)_ — run models on your own machine: [**Download 1.0.6 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.6/Grafia.Local_1.0.6_x64-setup.exe) · [guide](https://grafia.garden/local).
+> ⚙️ **Grafia&nbsp;Local** _(separate app — offline AI engine, not the notes app)_ — run models on your own machine: [**Download 1.0.7 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/local-v1.0.7/Grafia.Local_1.0.7_x64-setup.exe) · [guide](https://grafia.garden/local).
 
 > 🎹 **Grafia&nbsp;Piano** _(separate app — piano studio, not the notes app)_: [**Download 1.1.0 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.1.0/Grafia_Piano_1.1.0_x64-setup.exe) · [**Android APK 1.1.0**](https://github.com/grafia-app/grafia-releases/releases/download/piano-v1.1.0/Grafia_Piano_1.1.0_android.apk) · [**Classic pieces (MusicXML)**](https://github.com/grafia-app/grafia-releases/releases/download/piano-content-v1/grafia-piano-clasicos-v1.zip).
 
