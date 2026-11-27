@@ -26,7 +26,7 @@
 
 > 🗣️ **Grafia&nbsp;Lingua** _(separate app — local language tutor, not the notes app)_: [**Download 1.1.0 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/lingua-v1.1.0/Grafia.Lingua_1.1.0_x64-setup.exe).
 
-> 🎤 **Grafia&nbsp;Vocals** _(separate app — local singing practice, not the notes app)_: [**Download 0.3.1 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/vocals-v0.3.1/Grafia.Vocals_0.3.1_x64-setup.exe) · [**Android APK 0.3.1**](https://github.com/grafia-app/grafia-releases/releases/download/vocals-v0.3.1/Grafia.Vocals_0.3.1_android.apk).
+> 🎤 **Grafia&nbsp;Vocals** _(separate app — local singing practice, not the notes app)_: [**Download 0.3.2 (Windows x64)**](https://github.com/grafia-app/grafia-releases/releases/download/vocals-v0.3.2/Grafia.Vocals_0.3.2_x64-setup.exe) · [**Android APK 0.3.2**](https://github.com/grafia-app/grafia-releases/releases/download/vocals-v0.3.2/Grafia.Vocals_0.3.2_android.apk).
 
 ---
 
